@@ -1,8 +1,15 @@
 .QR{
-    background-color:rgb(241, 83, 136);
+    background-color:rgb(192, 86, 178);
     height: 500px;
     width: 500px;
     align-items: center;
-    position: relative;
 
+}
+.btn:hover{
+    background-color:rgb(247, 163, 247) ;
+}
+.btn{
+    height: 50px;
+    width: 100px;
+    border-radius: 10px;
 }
